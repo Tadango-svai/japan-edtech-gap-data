@@ -1,0 +1,4 @@
+id,category,issue_type,impact_score,description
+1,teacher-training,lack-of-resources,high,Teachers reported 40% more time spent on tool setup than lesson prep
+2,parent-communication,opacity,medium,Parents could not access real-time progress data, leading to trust issues
+3,student-motivation,one-size-fits-all,high,Uniform interface reduced engagement for non-standard learning paths
